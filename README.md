@@ -40,15 +40,3 @@ Ensure you have the following installed:
 3. Specify the amount and optional message.
 4. Click **Send Now** to initiate the transaction.
 
-## 💡 Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`feature-branch`).
-3. Commit your changes.
-4. Push to your fork and create a Pull Request.
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 📞 Contact
-For any queries or issues, feel free to reach out at [your-email@example.com].
