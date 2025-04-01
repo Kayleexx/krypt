@@ -1,17 +1,57 @@
 # Krypt - Web 3.0 Blockchain Application
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+# Krypt - Decentralized Crypto Transactions Platform
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+![Krypt](https://github.com/Kayleexx/krypt)
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
+## 🚀 Introduction
+Krypt is a decentralized crypto transaction platform that allows users to send and receive cryptocurrencies seamlessly. It provides a secure and user-friendly interface for conducting transactions on the Ethereum blockchain.
 
-Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
-E-mail - enyelsequeira1994@gmail.com
-Want me to cover the project you've created? Send me an e-mail 👌
+## 🌟 Features
+- **Send & Receive Crypto**: Transfer Ethereum securely with an easy-to-use interface.
+- **Real-time Transactions**: Experience fast and efficient blockchain-based payments.
+- **Secure Platform**: Implemented with best security practices.
+- **Low Fees**: Save on transaction costs with optimized smart contract transactions.
+- **Web3 Integration**: Connect and transact directly with MetaMask.
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## 🖼️ Screenshots
+### Homepage
+![Krypt UI](image.png)
+
+## 🔧 Technologies Used
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Blockchain**: Solidity, Ethereum Smart Contracts
+- **Wallet Integration**: MetaMask, Web3.js / Ethers.js
+
+## 📜 Smart Contract
+Krypt utilizes Ethereum smart contracts to process transactions securely and transparently. The contract ensures reliability and efficiency in handling transactions on the blockchain.
+
+## 🔧 Installation
+### Prerequisites
+Ensure you have the following installed:
+- Node.js
+- MetaMask Extension
+- Ganache (for local blockchain development)
+
+
+
+## 🚀 Usage
+1. Connect your MetaMask wallet.
+2. Enter the recipient’s Ethereum address.
+3. Specify the amount and optional message.
+4. Click **Send Now** to initiate the transaction.
+
+## 💡 Contributing
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a new branch (`feature-branch`).
+3. Commit your changes.
+4. Push to your fork and create a Pull Request.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 📞 Contact
+For any queries or issues, feel free to reach out at [your-email@example.com].
