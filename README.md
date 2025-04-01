@@ -3,8 +3,6 @@
 
 # Krypt - Decentralized Crypto Transactions Platform
 
-![Krypt](https://github.com/Kayleexx/krypt)
-
 ## 🚀 Introduction
 Krypt is a decentralized crypto transaction platform that allows users to send and receive cryptocurrencies seamlessly. It provides a secure and user-friendly interface for conducting transactions on the Ethereum blockchain.
 
