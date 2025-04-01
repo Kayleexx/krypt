@@ -15,9 +15,6 @@ Krypt is a decentralized crypto transaction platform that allows users to send a
 - **Low Fees**: Save on transaction costs with optimized smart contract transactions.
 - **Web3 Integration**: Connect and transact directly with MetaMask.
 
-## 🖼️ Screenshots
-### Homepage
-![Krypt UI](image.png)
 
 ## 🔧 Technologies Used
 - **Frontend**: React.js, Tailwind CSS
